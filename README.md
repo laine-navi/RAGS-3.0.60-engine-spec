@@ -8,7 +8,9 @@ Based on 3.0.60 (WPF). The command/condition system is identical to 2.5.2–2.6.
 
 
 **Browser-based player:** [rags2html](https://github.com/Kassy2048/rags2html)
+
 **Preservation archive:** [rags game on archive.org](archive.org)
+
 ~~**Decompiled source:** [RAGS-decompiled](https://github.com/laine-navi/RAGS-decompiled)~~
 
 ## Contents
