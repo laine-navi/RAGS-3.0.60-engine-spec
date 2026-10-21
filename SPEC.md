@@ -11,7 +11,7 @@ file format change (NRBF .NET BinaryFormatter → SQL Server Compact 3.5 SDF dat
 not an engine feature addition. All 103 command types and 37 condition types were
 present in 2.6.1.
 
-**Preservation archive:** [rags game on archive.org](archive.org)
+**Preservation archive:** [rags game on archive.org](https://archive.org/details/rags-suite-preservation-archive)
 
 **Browser-based player:** [rags2html](https://github.com/Kassy2048/rags2html)
 
