@@ -7,9 +7,11 @@ enums, and AES encryption used in the file format.
 Based on 3.0.60 (WPF). The command/condition system is identical to 2.5.2–2.6.1
 (WinForms) — verified by diff of the CommandType enum.
 
-**Decompiled source:** [link to rags-decompiled repo]
-**Browser-based player:** [link to rags2html repo]
-**Preservation archive:** [link to archive.org item]
+%%**Decompiled source:** [RAGS-decompiled](https://github.com/laine-navi/RAGS-decompiled)
+
+**Browser-based player:** [rags2html](https://github.com/Kassy2048/rags2html)
+
+**Preservation archive:** [rags game on archive.org](archive.org)
 
 ## Contents
 
