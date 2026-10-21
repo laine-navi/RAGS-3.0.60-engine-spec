@@ -1,16 +1,19 @@
-# RAGS 3.0 Engine Specification
+# RAGS Engine Specification
 
-Reverse-engineered specification of the RAGS 3.0.60 game engine, derived
-from decompiled source. Documents the SDF database schema, text substitution
-system, command/condition enums, and AES encryption used in the file format.
+Reverse-engineered specification of the RAGS game engine, derived from decompiled
+source. Documents the SDF database schema, text substitution system, command/condition
+enums, and AES encryption used in the file format.
 
-**Decompiled source (reference):** [RAGS-decompiled](https://github.com/laine-navi/RAGS-decompiled)
+Based on 3.0.60 (WPF). The command/condition system is identical to 2.5.2–2.6.1
+(WinForms) — verified by diff of the CommandType enum.
 
-**Target project:** [rags2html](https://github.com/Kassy2048/rags2html)
+**Decompiled source:** [link to rags-decompiled repo]
+**Browser-based player:** [link to rags2html repo]
+**Preservation archive:** [link to archive.org item]
 
 ## Contents
 
-- [SPEC.md](SPEC.md) — Full engine specification
+- `SPEC.md` — Full engine specification
 
 ## License
 
