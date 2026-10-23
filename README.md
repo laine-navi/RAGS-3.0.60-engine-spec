@@ -11,7 +11,7 @@ Based on 3.0.60 (WPF). The command/condition system is identical to 2.5.2–2.6.
 
 **Preservation archive:** [rags game on archive.org](https://archive.org/details/rags-suite-preservation-archive)
 
-~~**Decompiled source:** [RAGS-decompiled](https://github.com/laine-navi/RAGS-decompiled)~~
+**Decompiled source:** [RAGS-decompiled](https://github.com/laine-navi/RAGS-decompiled)
 
 ## Contents
 
