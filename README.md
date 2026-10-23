@@ -13,14 +13,14 @@ Based on 3.0.60 (WPF). The command/condition system is identical to 2.5.2–2.6.
 
 **Decompiled source:** [RAGS-decompiled](https://github.com/laine-navi/RAGS-decompiled)
 
-## Contents
+### Contents
 
 - `SPEC.md` — Full engine specification
 
-## AI disclosure
+### AI disclosure
 
 This is the first time I've touched C#, I used AI to help be write the grep and sed commands to research the decompiled code and also used it to help me draft the spec. The actual content I took directly from the source.
 
-## License
+### License
 
 CC BY 4.0
